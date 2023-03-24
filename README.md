@@ -2,3 +2,4 @@
 
 npm install xlsx
 
+node index.js
